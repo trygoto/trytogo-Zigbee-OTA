@@ -1,10 +1,10 @@
 [
     {
         "fileVersion": 16783109,
-        "fileSize": 460402,
+        "fileSize": 295966,
         "manufacturerCode": 4107,
         "imageType": 280,
-        "sha512": "c29f620ae9ecf08f0bee7c5c8d0ea99ab860716137ad8fd7be4e7e542c190b5435dbb5ea64a048cb2c71ce64d2f1da9429c664db880c220b61ee2bec8cd180c3",
+        "sha512": "0100970bde38fc20bc7e1de368c06cfbee2924a3a9bcdd1cfe70d72246845c79af86e007143a2068562343ccf5656011bf74d5faa08453e229f31a899e7a3568",
         "url": "https://github.com/trygoto/trytogo-Zigbee-OTA/raw/refs/heads/main/images/Hue/trytogo_t1.ota"
         
     }
