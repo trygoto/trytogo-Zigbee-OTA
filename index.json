@@ -5,7 +5,7 @@
         "manufacturerCode": 4107,
         "imageType": 280,
         "sha512": "c29f620ae9ecf08f0bee7c5c8d0ea99ab860716137ad8fd7be4e7e542c190b5435dbb5ea64a048cb2c71ce64d2f1da9429c664db880c220b61ee2bec8cd180c3",
-        "url": "https://github.com/trygoto/trytogo-Zigbee-OTA/tree/main/images/Hue/trytogo_t1.ota",
+        "url": "https://github.com/trygoto/trytogo-Zigbee-OTA/raw/master/images/Hue/trytogo_t1.ota",
         "path": "images/Hue/trytogo_t1.ota"
     }
 ]
